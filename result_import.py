@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #coding:utf-8
-#from scan result import here
+#from scan results import here
 
 import os
 

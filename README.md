@@ -11,8 +11,9 @@ apple
 autohome
 baidu
 blockchain
+cainiao
 didi
-dropbox
+dropbo
 ebay
 facebook
 github
@@ -22,7 +23,7 @@ jd
 kuaishou
 linkedin
 localtapiola
-microsoft
+microsof
 momo
 netease
 paypal
@@ -30,19 +31,20 @@ pingan
 pornhub
 rockstargames
 shopify
+shunfeng
 sina
 slack
 smartisan
-snapchat
+snapcha
 starbucks
-tencent
-toutiao
-twitter
+encen
+outiao
+witter
 uber
 vimeo
 vip
 vk
-xiaomi
+iaomi
 yahoo
 youporn
 other ...
